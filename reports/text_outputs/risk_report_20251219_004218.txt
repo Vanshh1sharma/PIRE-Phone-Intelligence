@@ -1,0 +1,16 @@
+Risk Score: 24/100
+Risk Level: LOW
+
+Detailed Checks:
+- Number Type: score=2, weight=15 | Mobile Number - Low Risk
+- Carrier: score=4, weight=20 | Legitimate Carrier: Telewings
+- Region: score=2, weight=15 | Region: IN
+- Timezone: score=2, weight=10 | Timezone: Asia/Calcutta
+- Validity: score=2, weight=20 | Valid and Possible - Low Risk
+- Formatting: score=2, weight=10 | Normal format - 10 digits
+- Metadata: score=2, weight=10 | Metadata extracted successfully
+
+Flags:
+- None
+
+Risk Score: 24/100 - Level: LOW

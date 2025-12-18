@@ -1,0 +1,61 @@
+{
+    "risk_score": 24,
+    "risk_level": "LOW",
+    "flags": [],
+    "risk_details": [
+        {
+            "check": "Number Type",
+            "message": "Mobile Number - Low Risk",
+            "score": 2,
+            "weight": 15
+        },
+        {
+            "check": "Carrier",
+            "message": "Legitimate Carrier: Telewings",
+            "score": 4,
+            "weight": 20
+        },
+        {
+            "check": "Region",
+            "message": "Region: IN",
+            "score": 2,
+            "weight": 15
+        },
+        {
+            "check": "Timezone",
+            "message": "Timezone: Asia/Calcutta",
+            "score": 2,
+            "weight": 10
+        },
+        {
+            "check": "Validity",
+            "message": "Valid and Possible - Low Risk",
+            "score": 2,
+            "weight": 20
+        },
+        {
+            "check": "Formatting",
+            "message": "Normal format - 10 digits",
+            "score": 2,
+            "weight": 10
+        },
+        {
+            "check": "Metadata",
+            "message": "Metadata extracted successfully",
+            "score": 2,
+            "weight": 10,
+            "metadata": {
+                "country_code": 91,
+                "national_number": 9058579163,
+                "number_type": "1",
+                "region": "IN",
+                "carrier": "Telewings",
+                "timezones": [
+                    "Asia/Calcutta"
+                ]
+            }
+        }
+    ],
+    "summary": "Risk Score: 24/100 - Level: LOW",
+    "flag_count": 0
+}
