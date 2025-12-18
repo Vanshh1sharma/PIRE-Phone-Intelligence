@@ -50,7 +50,7 @@ PIRE-Phone-Intelligence/
 
 1. Clone the repository
 
-git clone https://github.com/<your-username>/PIRE-Phone-Intelligence.git
+git clone https://github.com/Vanshh1sharma/PIRE-Phone-Intelligence.git
 
 cd PIRE-Phone-Intelligence
 
